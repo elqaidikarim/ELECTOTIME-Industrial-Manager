@@ -67,6 +67,15 @@ The source code is currently hosted in a **Private Repository** to respect corpo
 *Open for technical discussion regarding the architecture and libraries used.*
 
 ---
+---
+
+### 📜 Industrial Certification & Deployment
+> Developed and successfully deployed at **ELECTOMAR SARL**.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/821c988b-f936-4f53-bb03-d15fd7550624" width="400" alt="Stage Cover Page">
+  <p><i>Official Internship Cover Page (Validated by Company)</i></p>
+</div>
 <div align="center">
   <b>Lead Developer:</b> <a href="https://github.com/elqaidikarim">Abdelkarim ELQAIDI</a> <a href="https://github.com/elqaidikarim">& Soufiane BOUCHTALLA</a>
 </div>
