@@ -1,17 +1,20 @@
 <div align="center">
 
-# ⚡ ELECTOTIME
-### Industrial Workforce & Biometric Management System
+  <img src="https://github.com/user-attachments/assets/7a1c0ff4-0581-4951-be9b-d14e1db76ca0" width="150" alt="ELECTOTIME Logo">
+  <br>
 
-![Status](https://img.shields.io/badge/Status-Production%20Deployed-success?style=for-the-badge&logo=github)
-![Version](https://img.shields.io/badge/Version-v1.0.0-blue?style=for-the-badge)
-![Security](https://img.shields.io/badge/Data-Mock%20%2F%20Synthetic-orange?style=for-the-badge)
-![Code](https://img.shields.io/badge/Source-Private%20%28Proprietary%29-red?style=for-the-badge)
+  <h1>ELECTOTIME</h1>
+  <h3>Industrial Workforce & Biometric Management System</h3>
 
-<br>
+  ![Status](https://img.shields.io/badge/Status-Production%20Deployed-success?style=for-the-badge&logo=github)
+  ![Version](https://img.shields.io/badge/Version-v1.0.0-blue?style=for-the-badge)
+  ![Security](https://img.shields.io/badge/Data-Mock%20%2F%20Synthetic-orange?style=for-the-badge)
+  ![Code](https://img.shields.io/badge/Source-Private%20%28Proprietary%29-red?style=for-the-badge)
 
-> **An Enterprise-Grade Desktop Solution engineered for ELECTOMAR SARL.**
-> *Bridging the gap between Biometric Hardware (ZKTeco) and HR Decision Making.*
+  <br>
+
+  > **An Enterprise-Grade Desktop Solution engineered for ELECTOMAR SARL.**
+  > *Bridging the gap between Biometric Hardware (ZKTeco) and HR Decision Making.*
 
 </div>
 
